@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 3925,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-ea-billing-summary-by-resource-group/master/Get-AzureBillingMonthlySummary.ps1",
+    "DownloadCount": 967,
+    "Id": "Azure-EA-Billing-Summary-345622f3",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 195,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2018-2-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Azure EA Billing Summary by Resource GroupNB: this is suitable for Enterprise customers onlyThe Script provides a way to select a Billing Period from your Azure EA Subscriptions.The Billing Period Defaults to a one month period.You can then query the Azure EA Billing API for the",
+    "Title": "Azure EA Billing Summary by Resource Group",
+    "UpdatedDate": "2018-2-22T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-ea-billing-summary-by-resource-group",
+    "UserTags": "Azure billing, Billing Per Resource Group"
+}
